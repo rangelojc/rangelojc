@@ -2,7 +2,7 @@
 
 🎯 **Frontend Software Engineer** | 📍 Morong, Rizal, PH | 🧠 Passionate about crafting modern web interfaces
 
-I'm a React/Next.js developer with 8+ years of experience building scalable, fast, and user-focused web apps using technologies like TypeScript, TailwindCSS, Zustand, HeadlessUI, and more. I've worked with startups (YC-backed and otherwise), corporations, and early-stage ventures, collaborating closely with product teams and founders to bring ideas to life.
+I'm a React/Next.js developer with 8+ years of experience building scalable, fast, and user-focused web apps using technologies like React, TypeScript, TailwindCSS, Zustand, HeadlessUI, and more. I've worked with startups (YC-backed and otherwise), corporations, and early-stage ventures, collaborating closely with product teams and founders to bring ideas to life.
 
 ## 🧰 Tech Stack
 
@@ -17,19 +17,25 @@ I'm a React/Next.js developer with 8+ years of experience building scalable, fas
 **Frameworks & Libraries:**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
+![Radix UI](https://img.shields.io/badge/Radix_UI-FFFFFF?logo=radix-ui&logoColor=black&style=flat-square)
+![shadcn/ui](https://img.shields.io/badge/shadcn--ui-111827?logo=tailwindcss&logoColor=white&style=flat-square)
+![MaterialUI](https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white&style=flat-square)
+![HeadlessUI](https://img.shields.io/badge/HeadlessUI-1E293B?logo=tailwind-css&logoColor=white&style=flat-square)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white&style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=flat-square)
+![ReactFlow](https://img.shields.io/badge/ReactFlow-6A5ACD?style=flat-square&logo=react&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)
+
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zotero&logoColor=white&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
-![MaterialUI](https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white&style=flat-square)
-![HeadlessUI](https://img.shields.io/badge/HeadlessUI-1E293B?logo=tailwind-css&logoColor=white&style=flat-square)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white&style=flat-square)
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![Socket.IO](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)
 
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
