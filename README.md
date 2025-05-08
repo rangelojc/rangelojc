@@ -58,5 +58,4 @@ I'm a software / frontend engineer with 8+ years of experience building scalable
 
 - 🌐 Website: [rangelo.dev](https://rangelo.dev)
 - 💼 LinkedIn: [linkedin.com/in/ramceconcepcion](https://www.linkedin.com/in/ramceconcepcion)
-- 🐙 GitHub: [github.com/rangelojc](https://github.com/rangelojc)
 - 📧 Email: [ramceconcepcion@gmail.com](mailto:ramceconcepcion@gmail.com)
