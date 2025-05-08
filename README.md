@@ -51,9 +51,6 @@ I'm a software / frontend engineer with 8+ years of experience building scalable
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
-
----
-
 ## 📫 Let’s Connect!
 
 - 🌐 Website: [rangelo.dev](https://rangelo.dev)
