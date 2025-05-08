@@ -1,6 +1,6 @@
 # 👋 Hi, I'm rangelojc
 
-🎯 **Frontend Software Engineer** | 📍 Morong, Rizal, PH | 🧠 Passionate about crafting modern web interfaces
+🎯 **Software Engineer** | 📍 Rizal, PH | 🧠 Passionate about crafting modern web interfaces
 
 I'm a React/Next.js developer with 8+ years of experience building scalable, fast, and user-focused web apps using technologies like React, TypeScript, TailwindCSS, Zustand, HeadlessUI, and more. I've worked with startups (YC-backed and otherwise), corporations, and early-stage ventures, collaborating closely with product teams and founders to bring ideas to life.
 
