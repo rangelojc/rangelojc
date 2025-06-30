@@ -18,7 +18,6 @@ I'm a software / frontend engineer with 8+ years of experience building scalable
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
-![PrimeVue](https://img.shields.io/badge/PrimeVue-3C80F6?logo=prime&logoColor=white&style=flat-square)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-FFFFFF?logo=radix-ui&logoColor=black&style=flat-square)
 ![shadcn/ui](https://img.shields.io/badge/shadcn--ui-111827?logo=tailwindcss&logoColor=white&style=flat-square)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white&style=flat-square)
@@ -26,6 +25,7 @@ I'm a software / frontend engineer with 8+ years of experience building scalable
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white&style=flat-square)
 ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=flat-square)
 ![ReactFlow](https://img.shields.io/badge/ReactFlow-6A5ACD?style=flat-square&logo=react&logoColor=white)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-3C80F6?logo=prime&logoColor=white&style=flat-square)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs&logoColor=white&style=flat-square)
@@ -35,6 +35,7 @@ I'm a software / frontend engineer with 8+ years of experience building scalable
 ![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zotero&logoColor=white&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
+![Pinia](https://img.shields.io/badge/Pinia-FADA5E?logo=pinia&logoColor=black&style=flat-square)
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)
