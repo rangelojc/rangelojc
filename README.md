@@ -17,6 +17,8 @@ I'm a software / frontend engineer with 8+ years of experience building scalable
 **Frameworks & Libraries:**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-3C80F6?logo=prime&logoColor=white&style=flat-square)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-FFFFFF?logo=radix-ui&logoColor=black&style=flat-square)
 ![shadcn/ui](https://img.shields.io/badge/shadcn--ui-111827?logo=tailwindcss&logoColor=white&style=flat-square)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white&style=flat-square)
